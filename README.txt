@@ -1,0 +1,1 @@
+This project creates a fully functional social media app. The project is split into Client and Server, to decouple the backend from the frontend.
